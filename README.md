@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Overview
 
 Modern networks generate large volumes of traffic that must be continuously monitored for malicious activity. Traditional rule-based intrusion detection systems can struggle with evolving attack patterns and large-scale network traffic.
@@ -16,8 +17,8 @@ The primary deep learning models investigated are:
 
 * **LSTM — Long Short-Term Memory**
 * **GRU — Gated Recurrent Unit**
+![Image Alt Text]([assets/my-image.png](https://github.com/KatparSarfraz1214/Sequence-Based-Deep-Learning-System-for-Network-Intrusion-Detection-and-Threat-Classification/blob/main/Screenshot%202026-09-22%20194740.png?raw=true))
 
-  [](https://github.com/KatparSarfraz1214/Sequence-Based-Deep-Learning-System-for-Network-Intrusion-Detection-and-Threat-Classification/blob/main/Screenshot%202026-09-22%20194740.png?raw=true)
 
 The project focuses on building a complete machine-learning pipeline rather than only training a neural network:
 
