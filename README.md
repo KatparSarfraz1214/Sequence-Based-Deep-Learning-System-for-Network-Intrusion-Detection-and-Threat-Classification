@@ -17,7 +17,7 @@ The primary deep learning models investigated are:
 
 * **LSTM — Long Short-Term Memory**
 * **GRU — Gated Recurrent Unit**
-![Image Alt Text](assets/my-image.png](https://github.com/KatparSarfraz1214/Sequence-Based-Deep-Learning-System-for-Network-Intrusion-Detection-and-Threat-Classification/blob/main/Screenshot%202026-09-22%20194740.png?raw=true)
+![Image Alt Text](https://github.com/KatparSarfraz1214/Sequence-Based-Deep-Learning-System-for-Network-Intrusion-Detection-and-Threat-Classification/blob/main/Screenshot%202026-09-22%20194740.png?raw=true)
 
 
 The project focuses on building a complete machine-learning pipeline rather than only training a neural network:
