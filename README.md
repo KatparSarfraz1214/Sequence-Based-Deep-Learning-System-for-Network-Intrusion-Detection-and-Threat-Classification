@@ -100,6 +100,8 @@ The system can be extended to classify specific attack categories such as:
 * Infiltration
 
 ---
+![Image Alt Text](https://github.com/KatparSarfraz1214/Sequence-Based-Deep-Learning-System-for-Network-Intrusion-Detection-and-Threat-Classification/blob/main/Screenshot%202026-09-22%20194848.png?raw=true)
+
 
 # Dataset
 
